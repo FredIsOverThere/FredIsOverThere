@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FredIsOverThere
-- 👀 I’m interested in coding projects and moving into It
+- 👀 I’m interested in coding projects and moving into IT
 - 🌱 I’m currently learning ASP.Net, while continuing my C#, Xamarin (.Net Maui) and SQL skills
 
 <!---
